@@ -1,11 +1,5 @@
 # 王芳的个人作品集
-
-标签（空格分隔）： 未分类
-
----
-
-在此输入正文
-
+页数：22
 ![image](img/cover.jpg)
 ![image](img/catalog.jpg)
 ![image](img/1.jpg)
